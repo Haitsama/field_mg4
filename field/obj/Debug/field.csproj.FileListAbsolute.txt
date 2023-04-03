@@ -1,0 +1,8 @@
+D:\c++_haitsam\field\field\obj\Debug\field.csproj.AssemblyReference.cache
+D:\c++_haitsam\field\field\obj\Debug\field.csproj.SuggestedBindingRedirects.cache
+D:\c++_haitsam\field\field\obj\Debug\field.csproj.CoreCompileInputs.cache
+D:\c++_haitsam\field\field\bin\Debug\field.exe.config
+D:\c++_haitsam\field\field\bin\Debug\field.exe
+D:\c++_haitsam\field\field\bin\Debug\field.pdb
+D:\c++_haitsam\field\field\obj\Debug\field.exe
+D:\c++_haitsam\field\field\obj\Debug\field.pdb
